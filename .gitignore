@@ -1,0 +1,23 @@
+# Environment & Kredensial 
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Node.js & React 
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# Python & Data Science 
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Sistem Operasi & Editor
+.DS_Store
+Thumbs.db
+.vscode/
