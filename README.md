@@ -24,7 +24,7 @@ Sistem manajemen inventaris cerdas berbasis AI untuk membantu **Toko Arif Bulak*
 
 ## 2. Sumber Dataset, API, dan Library
 * **Dataset:** Dataset sintetis `DUMMY_Toko_Arif_Bulak.csv` (maksimal 10.000 baris) yang dimodelkan dari pola transaksi warung agen Toko Arif Bulak *(berlabel DUMMY eksplisit)*.
-* **API Eksternal:** Gemini API / OpenAI API[cite: 1].
+* **API Eksternal:** Gemini API / OpenAI API.
 * **Tech Stack & Library Utama:** Node.js, Express.js, Joi, PostgreSQL (Neon), React, Vite, Tailwind CSS, Python, FastAPI, XGBoost, Prophet, `mlxtend` (FP-Growth), Streamlit.
 
 ## 3. Keseimbangan Data & Feature Engineering
